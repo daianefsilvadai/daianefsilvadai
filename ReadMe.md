@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de front end<br>Estou a procura de emprego<br>
+Sou estudante de QA e Front end<br>Estou a procura de emprego<br>
 
 
 ## 🌐 Socials:
