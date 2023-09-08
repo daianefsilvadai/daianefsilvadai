@@ -1,4 +1,10 @@
-### Sou estudante de QA e Front end<br>Estou a procura de emprego<br>
+## Oiii! Eu sou a Daiane
+- Estudando Front-end (Vai na Web). 
+  <br>
+- Curso Udemy: Webdesign Front-end Fundamentos: HTML, CSS, Lógica de programação e Javascript (Daniel Tapias Morales). 
+  <br>
+- Curso CTG : Teste de Software (Vinicius Pessoni). 
+
 
 
 ## 🌐 Socials:
