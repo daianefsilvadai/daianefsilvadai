@@ -1,6 +1,7 @@
 # Oiii! Eu sou a Daiane
 - Estudando Front-end (Vai na Web). 
-- Curso Udemy: Webdesign Front-end Fundamentos: HTML, CSS, Lógica de programação e Javascript (Daniel Tapias Morales). 
+- Curso Udemy: Webdesign Front-end Fundamentos: HTML, CSS, Lógica de programação e Javascript (Daniel Tapias Morales).
+- Curso Udemy: 20+Projetos em React, Redux, Bootstrap, APIs (Matheus Battisti)
 - Curso CTG : Teste de Software (Vinicius Pessoni). 
 
 ## 
